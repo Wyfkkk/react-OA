@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function index() {
+export default function BaseLayout() {
   return (
     <div>
-      公司情况分析
+      
     </div>
   )
 }
